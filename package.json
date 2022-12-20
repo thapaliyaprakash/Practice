@@ -1,11 +1,19 @@
 {
-  "name": "php-project",
+  "name": "slider",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thapaliyaprakash/myslider.git"
+  },
   "author": "prakash thapaliya",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thapaliyaprakash/myslider/issues"
+  },
+  "homepage": "https://github.com/thapaliyaprakash/myslider#readme"
 }
